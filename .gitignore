@@ -1,3 +1,15 @@
+/**/node_modules
+/**/solr/**/data
+/.vscode/*
+/**/docs/*
+npm-debug.log
+/**/logs
+.idea/
+report.html
+bin/swagger/swagger.json
+/**/coverage
+.nyc_output
+
 # Prerequisites
 *.d
 
@@ -30,3 +42,6 @@
 *.exe
 *.out
 *.app
+
+package-lock.json
+
